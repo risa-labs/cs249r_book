@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-24T20:20:33.662054+00:00",
-  "repo": "harvard-edge/cs249r_book",
+  "generated": "2026-11-25T21:53:11.171975+00:00",
+  "repo": "risa-labs/cs249r_book",
   "stats": {
-    "forks": 3742,
-    "issues": 5,
-    "stars": 30306,
-    "watchers": 210
+    "forks": 0,
+    "issues": 0,
+    "stars": 0,
+    "watchers": 0
   },
   "total": 113,
   "contributors": [
@@ -13,7 +13,7 @@
       "login": "profvjreddi",
       "name": "Vijay Janapa Reddi",
       "avatar_url": "https://avatars.githubusercontent.com/u/6807956?v=4",
-      "contributions": 23324,
+      "contributions": 23346,
       "html_url": "https://github.com/profvjreddi"
     },
     {
